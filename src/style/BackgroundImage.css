@@ -1,0 +1,10 @@
+body, html {
+    height: 100%;
+    }
+    .bg {
+    background-image: url("https://i.ibb.co/6H99bYM/FlimaAir.png");
+    height: 35ch;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
